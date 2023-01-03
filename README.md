@@ -2,7 +2,7 @@
     To upload a CSV file and show the data in it.
 
 ## Hosted URL:
-    https://csv-upload-server.herokuapp.com/
+    https://csv-upload-app.onrender.com
 
 ## Features 
 
